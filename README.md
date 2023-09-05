@@ -5,7 +5,7 @@
 
 - Projelerim [📰 Haber Sitesi Şablon](https://github.com/Khanateyktech/basithabersitesi)
 
-- 🧒Profile [link.tree/yuskaatr](link.tree/yuskaatr)
+- 🧒Profile [linktr.ee/yuskaatr](https://linktr.ee/yuskaatr)
 
 - 🌐Web [https://yusufkaantr.wordpress.com](https://yusufkaantr.wordpress.com)
 
