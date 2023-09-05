@@ -1,4 +1,4 @@
-![MasterHead](https://files.mastodon.social/accounts/headers/110/503/815/759/240/572/original/e3fafc560f44e2b9.webp)
+![MasterHead](e3fafc560f44e2b9.webp)
 
 <h1 align="center">Selam 👋, Ben khanategokturktr</h1>
 <h3 align="center">HTML,CSS Developer in Türkiye 🔴</h3>
